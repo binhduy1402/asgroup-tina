@@ -1,0 +1,6 @@
+{
+  "name": "FESGift",
+  "description": "Giải pháp quà tặng doanh nghiệp toàn diện và cao cấp, mang đậm dấu ấn di sản và tinh hoa văn hóa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
