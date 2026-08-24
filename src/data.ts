@@ -10,7 +10,7 @@ export const BRAND_INFO = {
   tagline: "Heritage & Grace",
   hotline: "0903 731 769 - Ms. Tina",
   email: "tina@asgroup.com.vn",
-  address: "District 2, Ho Chi Minh City, VietNam",
+  address: "Binh Trung District, Ho Chi Minh City, Vietnam",
 };
 
 export const COMPANY_STATS = [

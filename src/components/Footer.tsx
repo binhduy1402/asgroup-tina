@@ -149,7 +149,7 @@ export default function Footer() {
                 </span>
                 <div>
                   <p className="mb-0.5 uppercase tracking-wider text-white/40">Văn phòng</p>
-                  <p className="text-white/80">District 2, Ho Chi Minh City</p>
+                  <p className="text-white/80">Binh Trung District, Ho Chi Minh City</p>
                 </div>
               </div>
             </div>
