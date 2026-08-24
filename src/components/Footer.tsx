@@ -119,7 +119,7 @@ export default function Footer() {
                 </span>
                 <div>
                   <p className="mb-0.5 uppercase tracking-wider text-white/40">Email</p>
-                  <p className="text-white/80">tina@asgroup.vn</p>
+                  <p className="text-white/80">tina@asgroup.com.vn</p>
                 </div>
               </a>
 
