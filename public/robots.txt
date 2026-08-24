@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://asgroup.binhduy.xyz/sitemap.xml
+Sitemap: https://tina.asgroup.com.vn/sitemap.xml
