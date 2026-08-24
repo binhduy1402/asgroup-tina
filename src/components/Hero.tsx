@@ -93,7 +93,7 @@ export default function Hero({ onDiscoverClick, onConsultClick }: HeroProps) {
                   href="tel:0903731769"
                   className="mt-0.5 text-[1.1rem] font-bold leading-none text-[#2d1f3d] hover:text-[#c45b2f] transition-colors"
                 >
-                  0903 731 769
+                  0903 731 769 - Ms. Tina
                 </a>
               </div>
               <a
@@ -239,7 +239,7 @@ export default function Hero({ onDiscoverClick, onConsultClick }: HeroProps) {
                       href="tel:0903731769"
                       className="text-[1.05rem] font-bold leading-none text-[#2d1f3d] hover:text-[#c45b2f] transition-colors"
                     >
-                      0903 731 769
+                      0903 731 769 - Ms. Tina
                     </a>
                   </div>
                   <a
